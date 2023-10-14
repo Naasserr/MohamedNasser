@@ -30,7 +30,7 @@ header{
     text-decoration: none;
     color: black;
     font-weight: 500;
-    font-size: 1.8em;
+    font-size: 1.2em;
     padding-left: 30px;
 }
 .navigation a:hover{
@@ -67,6 +67,11 @@ section{
     font-size: 1.7em;
     padding-right: 30px;
 }
+.social-icons a:hover{
+    color: rgb(8, 123, 216);
+}
+
+
 /* contact */
 .title{
     display: flex;
